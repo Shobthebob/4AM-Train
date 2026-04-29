@@ -974,7 +974,6 @@ export default function FourAMTea() {
             animation: "creditsRoll 60s linear forwards",
             textAlign: "center", padding: "0 32px",
           }}>
-            <div style={{ height: "60vh" }} />
             <p style={creditsTagline}>4:00 AM Tea</p>
             <p style={{ ...creditsTagline, fontSize: "12px", color: "rgba(150,170,210,0.35)", marginBottom: "80px" }}>The Final Train</p>
 
